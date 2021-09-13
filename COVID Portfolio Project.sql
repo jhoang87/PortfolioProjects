@@ -1,3 +1,5 @@
+-- From COVID DATA GRAPH 09/13/21
+
 select *
 from coviddeaths
 where continent is not null
