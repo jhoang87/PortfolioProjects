@@ -10,4 +10,5 @@ https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=t
 The queries were used to see the percent of the population that had been infected and the death percentage of people infected.  Temporary tables and table joins were used to measure a variety of statistics in which included the sum of cases, deaths, and vaccinations over a period of time.
 
 The two joined tables that were focused:
-* Table 1:
+* Table 1: covid_deaths
+* Table 2: covid_vaccinations
