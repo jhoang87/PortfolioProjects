@@ -17,5 +17,3 @@ The two joined tables that were focused:
 Visualizations of the dataset were displayed in tableau:
 https://public.tableau.com/app/profile/justin3608/viz/CovidDashboardProject_16317299451110/Dashboard1
 ![Dashboard 1](https://user-images.githubusercontent.com/81699947/134031861-81be223d-b323-4f69-a7af-fbab0b148a2e.png)
-
-## Data Cleanining in SQL
