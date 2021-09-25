@@ -1,6 +1,6 @@
 ## Project: Movie Correlation
 
-Different aspects of movie data were investigated to see correlations between each other.
+Different aspects of movie data were investigated to see correlations between each other using Python.
 
 Predictions: Company and Budget are highly correlated to gross revenue
 
