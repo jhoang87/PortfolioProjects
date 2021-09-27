@@ -24,7 +24,7 @@ order by 1,2;
 
 
 -- Looking at Total Cases vs Population
--- Shows what percentag eof population god Covid
+-- Shows what percentage of population got Covid
 
 select location, date, total_cases, Population, (total_cases/population)*100 as PercentPopulationInfected
 from coviddeaths
