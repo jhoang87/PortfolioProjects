@@ -40,4 +40,6 @@ This query states that US has the most olympians participated for both seasons s
 The age distribution shows that the most commonly participated age group is between 20-30 with the average age to be 25.6
 
 To find the chances of a Southeast Asian country winning a medal based on history:
-1)
+
+1) Find total medal count throughout all of the olympics
+![Capture](https://user-images.githubusercontent.com/81699947/137014392-f191dfbf-7333-4c34-bd89-dfa6f96057e2.PNG)
