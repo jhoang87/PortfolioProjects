@@ -6,6 +6,10 @@
 
 https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
+### Data Cleaning/Finding Duplicates
+![Capture](https://user-images.githubusercontent.com/81699947/137009393-10dfe973-8861-44d4-a080-63deca2f5090.PNG)
+
+
 ### Predictions
 1) USA has earned the most medals and gold medals overall all-time
 2) The age group with the most participants will be between 20-30 years old
@@ -20,6 +24,10 @@ There have always been more male participants than female participants each year
 
 ![Capture](https://user-images.githubusercontent.com/81699947/137007874-384866d2-c0fd-488f-83ca-3c81fc1931d7.PNG)
 ![Capture](https://user-images.githubusercontent.com/81699947/137008114-58cc12fd-4da7-4739-b382-3dde8a1e71b2.PNG)
+
+US is in the clear lead for the all-time medal count and was first in gold medals in the 2016 Olympics as well.
+
+
 
 ![Capture](https://user-images.githubusercontent.com/81699947/137003499-2cdfff09-e283-4c15-bd8b-369e7f33475a.PNG)
 
