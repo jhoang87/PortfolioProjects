@@ -17,8 +17,9 @@ https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-result
 
 There have always been more male participants than female participants each year in both seasons, but as time has passed, the ratio between both genders participating has lessened towards being equal.
 
-![Capture](https://user-images.githubusercontent.com/81699947/137007874-384866d2-c0fd-488f-83ca-3c81fc1931d7.PNG)
 
+![Capture](https://user-images.githubusercontent.com/81699947/137007874-384866d2-c0fd-488f-83ca-3c81fc1931d7.PNG)
+![Capture](https://user-images.githubusercontent.com/81699947/137008114-58cc12fd-4da7-4739-b382-3dde8a1e71b2.PNG)
 
 ![Capture](https://user-images.githubusercontent.com/81699947/137003499-2cdfff09-e283-4c15-bd8b-369e7f33475a.PNG)
 
