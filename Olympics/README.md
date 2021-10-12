@@ -29,8 +29,12 @@ There have always been more male participants than female participants each year
 US is in the clear lead for the all-time medal count and was first in gold medals in the 2016 Olympics as well
 
 ![Capture](https://user-images.githubusercontent.com/81699947/137010261-69326015-5e09-4075-8b1d-2e8c2836d566.PNG)
+
 This query shows that US has earned the most gold overall
 
+![Capture](https://user-images.githubusercontent.com/81699947/137010734-af6a65f5-a22e-4005-aac2-c6c9095cea15.PNG)
+
+This query states that US has the most olympians participated for both seasons so it can be expected that they should be in the lead when it comes to medal count
 
 ![Capture](https://user-images.githubusercontent.com/81699947/137003499-2cdfff09-e283-4c15-bd8b-369e7f33475a.PNG)
 
