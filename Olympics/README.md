@@ -59,3 +59,9 @@ To find the chances of a Southeast Asian country winning a gold medal based on h
 
 ![Capture](https://user-images.githubusercontent.com/81699947/137015238-1737e623-4f09-44be-b437-5d9dd974d471.PNG)
 
+Comparing US's chances of winning a gold medal to any Southeast Asian country's chances:
+
+![Capture](https://user-images.githubusercontent.com/81699947/137015608-87afd002-f6f8-48a5-ab2f-a304cfe922cb.PNG)
+
+### Conclusions
+All 3 predictions were correct
