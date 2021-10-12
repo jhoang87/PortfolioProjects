@@ -14,7 +14,7 @@ Many athletes were found to compete in the same event in the same year multiple 
 ### Predictions
 1) USA has earned the most medals and gold medals overall all-time
 2) The age group with the most participants will be between 20-30 years old
-3) The chances of a Southeast Asian country winning a medal or a gold medal specifically will be less than 0.35
+3) The chances of a Southeast Asian country winning a medal or a gold medal specifically will be less than 0.35%
 
 ### Data Visualization & Analysis
 
@@ -42,4 +42,20 @@ The age distribution shows that the most commonly participated age group is betw
 To find the chances of a Southeast Asian country winning a medal based on history:
 
 1) Find total medal count throughout all of the olympics
+
 ![Capture](https://user-images.githubusercontent.com/81699947/137014392-f191dfbf-7333-4c34-bd89-dfa6f96057e2.PNG)
+
+2) Use total medal count found above to find answer in %
+
+![Capture](https://user-images.githubusercontent.com/81699947/137014731-7c273d5c-504d-47df-add5-289e63320376.PNG)
+
+To find the chances of a Southeast Asian country winning a gold medal based on history:
+
+1) Find total gold medal count throughout all of the olympics
+
+![Capture](https://user-images.githubusercontent.com/81699947/137015020-e973354c-aa3e-4310-bc4b-b9c13f82c036.PNG)
+
+2) Use total gold medal count found above to find answer in %
+
+![Capture](https://user-images.githubusercontent.com/81699947/137015238-1737e623-4f09-44be-b437-5d9dd974d471.PNG)
+
