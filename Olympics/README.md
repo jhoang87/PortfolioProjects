@@ -18,6 +18,9 @@ Many athletes were found to compete in the same event in the same year multiple 
 
 ### Data Visualization & Analysis
 
+Visualizations displayed in tableau:
+https://public.tableau.com/app/profile/justin3608/viz/Olympics-120years/120YearsofOlympics
+
 ![Capture](https://user-images.githubusercontent.com/81699947/136987017-4312a050-0e5d-4db9-abc0-13bda7b37c3f.PNG)
 
 There have always been more male participants than female participants each year in both seasons, but as time has passed, the ratio between both genders participating has lessened towards being equal
