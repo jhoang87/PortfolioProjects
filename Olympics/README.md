@@ -8,6 +8,7 @@ https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-result
 
 ### Data Cleaning/Finding Duplicates
 ![Capture](https://user-images.githubusercontent.com/81699947/137009393-10dfe973-8861-44d4-a080-63deca2f5090.PNG)
+
 Many athletes were found to compete in the same event in the same year multiple times
 
 ### Predictions
